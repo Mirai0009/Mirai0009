@@ -5,10 +5,6 @@ I'm not programer i'm just Guider Android for Paimon moe & Star Rail Station
 </p>
 <p align="center">
 
-</p>
-<p align="center">
-<a href="https://github.com/Mirai0009"><img title="Author" src="https://img.shields.io/badge/Author-Mirai-pink.svg?style=for-the-badge&logo=github"></a>
-
 
 ### My Overall Stats
 ![Mirai GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirai0009&show_icons=true&theme=radical)
