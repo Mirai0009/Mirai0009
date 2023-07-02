@@ -1,22 +1,23 @@
 ### Hi there I'm Mirai 👋
-I'm not programer i'm just guider Android phone 
-<!--
-**Mirai0009/Mirai0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not programer i'm just Guider Android for Paimon moe & Star Rail Station 
 
-Here are some ideas to get you started:
+<img src="https://telegra.ph/file/82d3feb35ceab42024602.gif"/>
+</p>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+<a href="https://github.com/Mirai0009"><img title="Author" src="https://img.shields.io/badge/Author-Mirai-pink.svg?style=for-the-badge&logo=github"></a>
+
 
 ### My Overall Stats
 ![Mirai GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirai0009&show_icons=true&theme=radical)
 
 ### Languages that I've used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=donut)](https://github.com/Mirai0009/github-readme-stats)
+
+### Support me❤️
+ 
+<a href='https://ko-fi.com/mirai07' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://saweria.co/mirai07"><img src="https://telegra.ph/file/60f8ff1e1e9124672f665.png" width=145px>
+
