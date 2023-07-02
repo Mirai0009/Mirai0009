@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Mirai 👋
+I'm not programer i'm just guider Android phone 
 <!--
 **Mirai0009/Mirai0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Overall Stats
+![Mirai GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirai0009&show_icons=true&theme=radical)
+
+### Languages that I've used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=donut)](https://github.com/Mirai0009/github-readme-stats)
