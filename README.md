@@ -6,10 +6,9 @@ I'm not programer i'm just Guider Android for Paimon moe & Star Rail Station
 <p align="center">
 
 
-### My Overall Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=compact)
 ### Languages that I've used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=donut)](https://github.com/Mirai0009/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=compact)
+
 
 ### Support me❤️
  
