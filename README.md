@@ -7,8 +7,7 @@ I'm not programer i'm just Guider Android for Paimon moe & Star Rail Station
 
 
 ### My Overall Stats
-![Mirai GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirai0009&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=compact)
 ### Languages that I've used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai0009&layout=donut)](https://github.com/Mirai0009/github-readme-stats)
 
