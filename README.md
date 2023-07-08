@@ -1,10 +1,11 @@
 ### Hi there I'm Mirai 👋
 I'm not programer i'm just Guider Android for Paimon moe & Star Rail Station 
-
 <img src="https://telegra.ph/file/82d3feb35ceab42024602.gif"/>
 </p>
 <p align="center">
- 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mirai0009&label=Profile%20views&color=0e75b6&style=flat" alt="Mirai0009" /> </p>
+
  ------
  
 ### Spotify Playing 🎧
