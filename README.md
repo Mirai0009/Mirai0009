@@ -16,6 +16,14 @@ I'm not programer but i hope someday can make it happen 😇
   <a href="https://open.spotify.com/playlist/2iNbbs9ofjXUlVXfZqJv7w?si=KFzuVexUQt6RYP4KlqdQ6g" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.facebook.com/profile.php?id=100080652905855&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kuriyama Mirai" height="30" width="40" /></a>
+<a href="https://youtube.com/@mirai2708?si=gtsOrPTW39JsvVqX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mirai" height="30" width="40" /></a>
+<a href="https://discord.com/users/921772331259531324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miraiwangy" height="30" width="40" /></a>
+
 ------
 
 ### Github Stats 🚀
