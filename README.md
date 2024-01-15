@@ -6,9 +6,15 @@ I'm not programer but i hope someday can make it happen 😇
 </p>
 <p align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mirai0009&label=Profile%20views&color=0e75b6&style=flat" alt="Mirai0009" /> </p>
 
- ------
+<p align="centre"> 
+
+<img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/074ab719abe7b6362c277b7d172149ab?style=flat&label=Gits%20stars%20&color=FFC0CB">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB&link=https%3A%2F%2Fyoutube.com%2F%40mirai2708%3Fsi%3D5fxsgutrwKOQWwYs">
+<img src="https://komarev.com/ghpvc/?username=Mirai0009&label=Profile%20views&color=FFC0CB&style=flat" alt="Mirai0009" />
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&label=YouTube%20views&color=FFC0CB&link=https%3A%2F%2Fyoutube.com%2F%40mirai2708%3Fsi%3DKT2elNLe-nf5cUOY">
+
+------
  
 ### Spotify Playing 🎧
 
