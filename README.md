@@ -6,15 +6,15 @@ I'm not programer but i hope someday can make it happen 😇
 </p>
 <p align="center">
 
-
+</p>
 <p align="centre"> 
-
-<img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/074ab719abe7b6362c277b7d172149ab?style=flat&label=Gits%20stars%20&color=FFC0CB">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB&link=https%3A%2F%2Fyoutube.com%2F%40mirai2708%3Fsi%3D5fxsgutrwKOQWwYs">
-<img src="https://komarev.com/ghpvc/?username=Mirai0009&label=Profile%20views&color=FFC0CB&style=flat" alt="Mirai0009" />
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&label=YouTube%20views&color=FFC0CB&link=https%3A%2F%2Fyoutube.com%2F%40mirai2708%3Fsi%3DKT2elNLe-nf5cUOY">
-
-------
+<a href="https://gist.github.com/Mirai0009/074ab719abe7b6362c277b7d172149ab"><img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/074ab719abe7b6362c277b7d172149ab?style=flat&label=Tracing%20gits%20stars%20&color=FFC0CB">
+<a href="https://gist.github.com/Mirai0009/fa4307e97ad40e71f89754c372b3ba91"><img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/fa4307e97ad40e71f89754c372b3ba91?style=flat&label=Brevent%20gits%20stars%20&color=FFC0CB">
+<a href="https://gist.github.com/Mirai0009/8615e52e09083de9c0ea2dc00dc62ea8"><img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/8615e52e09083de9c0ea2dc00dc62ea8?style=flat&label=Ascent%20gits%20stars%20&color=FFC0CB">
+<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=social&color=FFC0CB">
+ <a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=social">
+ 
+ ------
  
 ### Spotify Playing 🎧
 
