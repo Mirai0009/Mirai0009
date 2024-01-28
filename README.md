@@ -7,12 +7,9 @@ I'm not programer but i hope someday can make it happen 😇
 <p align="center">
 
 </p>
-<p align="centre"> 
-<a href="https://gist.github.com/Mirai0009/074ab719abe7b6362c277b7d172149ab"><img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/074ab719abe7b6362c277b7d172149ab?style=flat&label=Tracing%20gits%20stars%20&color=FFC0CB">
-<a href="https://gist.github.com/Mirai0009/fa4307e97ad40e71f89754c372b3ba91"><img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/fa4307e97ad40e71f89754c372b3ba91?style=flat&label=Brevent%20gits%20stars%20&color=FFC0CB">
-<a href="https://gist.github.com/Mirai0009/8615e52e09083de9c0ea2dc00dc62ea8"><img alt="Github Gist stars" src="https://img.shields.io/github/gist/stars/8615e52e09083de9c0ea2dc00dc62ea8?style=flat&label=Ascent%20gits%20stars%20&color=FFC0CB">
+
 <a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=social&color=FFC0CB">
- <a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=social">
+<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=social">
  
  ------
  
