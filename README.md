@@ -48,5 +48,5 @@ I'm not programer but i hope someday can make it happen 😇
 ### Support me❤️
  
 <a href='https://ko-fi.com/mirai07' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://saweria.co/mirai07"><img src="https://telegra.ph/file/60f8ff1e1e9124672f665.png" width=145px>
+<a href="https://trakteer.id/mirai07" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
