@@ -1,15 +1,14 @@
 ### Hi there I'm Mirai 👋
 I'm from Indonesian
 
-I'm not programer but i hope someday can make it happen 😇
 <img src="https://telegra.ph/file/82d3feb35ceab42024602.gif"/>
 </p>
 <p align="center">
 
+<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB">
+<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB">
+<a href="https://youtu.be/I-UXKFDjMEI?si=jFJsDl-CDHtHIokM"><img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/I-UXKFDjMEI?style=flat&color=FFC0CB">
 
-
-<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=social&color=FFC0CB">
-<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=social">
 </p>
 <p align="center">
 
