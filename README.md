@@ -5,8 +5,8 @@ I'm from Indonesian
 </p>
 <p align="center">
 
-<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB">
-<a href="https://youtube.com/@mirai2708?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB">
+<a href="https://youtube.com/@miraiwangy?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB">
+<a href="https://youtube.com/@miraiwangy?si=AFmanbnsI17dyTMu"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAeexmoyDxxwqjhoq_WfH3A?style=flat&color=FFC0CB">
 <a href="https://youtu.be/I-UXKFDjMEI?si=jFJsDl-CDHtHIokM"><img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/I-UXKFDjMEI?style=flat&color=FFC0CB">
 
 </p>
