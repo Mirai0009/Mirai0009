@@ -26,7 +26,7 @@ I'm from Indonesian
 <p align="left">
 
 <a href="https://www.facebook.com/profile.php?id=100080652905855&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kuriyama Mirai" height="30" width="40" /></a>
-<a href="https://youtube.com/@mirai2708?si=gtsOrPTW39JsvVqX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mirai" height="30" width="40" /></a>
+<a href="https://youtube.com/@miraiwangy?si=gtsOrPTW39JsvVqX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mirai" height="30" width="40" /></a>
 <a href="https://discord.com/users/921772331259531324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miraiwangy" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
